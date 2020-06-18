@@ -1,6 +1,7 @@
 {
 	"extends": "@sindresorhus/tsconfig",
 	"compilerOptions": {
+		"outDir": "build/main",
 		"target": "es2018"
 	},
 	"files": [
